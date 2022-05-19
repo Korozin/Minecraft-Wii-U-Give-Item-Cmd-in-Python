@@ -36,3 +36,9 @@ Which Player: PLAYER VALUE HERE
 ```
 Wii U IP: IPv4 HERE
 ```
+
+
+### Video Description
+
+https://user-images.githubusercontent.com/90534409/169179730-6fe5b0e8-3720-42cd-a14b-93507bb78cd9.mp4
+
